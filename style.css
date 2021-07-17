@@ -1,0 +1,19 @@
+.BODY-BACKGROUND{
+    background-image: url("Back.gif");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    color: rgb(192, 192, 192);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4{
+    color: rgb(168, 168, 168);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+#Valet{
+    border: 5px blanchedalmond ridge;
+}
